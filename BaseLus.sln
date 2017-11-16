@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLus", "BaseLus.csproj", "{1456AD09-2395-D93E-AA83-A956A9906A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLus.Plugins", "BaseLus.Plugins.csproj", "{61FF9C03-65A3-5A96-D215-8D88EBFC4A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLus.Editor", "BaseLus.Editor.csproj", "{75723719-51AB-BA0F-689E-6BD7608617BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1456AD09-2395-D93E-AA83-A956A9906A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1456AD09-2395-D93E-AA83-A956A9906A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1456AD09-2395-D93E-AA83-A956A9906A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1456AD09-2395-D93E-AA83-A956A9906A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FF9C03-65A3-5A96-D215-8D88EBFC4A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FF9C03-65A3-5A96-D215-8D88EBFC4A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FF9C03-65A3-5A96-D215-8D88EBFC4A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FF9C03-65A3-5A96-D215-8D88EBFC4A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75723719-51AB-BA0F-689E-6BD7608617BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75723719-51AB-BA0F-689E-6BD7608617BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75723719-51AB-BA0F-689E-6BD7608617BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75723719-51AB-BA0F-689E-6BD7608617BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
